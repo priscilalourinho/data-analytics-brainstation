@@ -23,16 +23,16 @@ The goal is to **use visual representations to better understand how causes of d
 
 ## **Quick guide to understand the plots:**
 
-####→ **Normal Curve:**
+→ **Normal Curve:**
 It's a curve that shows how data is spread out. **Most data points are in the middle, and fewer are on the sides.**
 
-####→ **Box Plot:**
+→ **Box Plot:**
 It's a box-shaped that provides a visual summary of the distribution of a dataset. ***It shows the median, quartiles, and potential outliers.***
 
-####→ **Histogram:**
+→ **Histogram:**
 A histogram is a bar chart that displays the distribution of a continuous dataset. It divides the data into intervals (bins) and represents the frequency of values within each bin. ***It provides insights into the shape and central tendencies of the data.***
 
-####→ **Pareto Chart:**
+→ **Pareto Chart:**
 A Pareto chart combines both bar and line graphs. It arranges categories in descending order by frequency or impact. The left vertical axis represents the frequency or count, while the right vertical axis represents the cumulative percentage. ***It helps identify the most significant factors in a dataset.***
 
 # **Statistical Conslusions, Defining Next Steps, and Exporting Results**
